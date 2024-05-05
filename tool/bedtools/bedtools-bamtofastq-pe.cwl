@@ -34,5 +34,5 @@ outputs:
 label: bedtools-bamtofastq-pe
 requirements:
   - class: DockerRequirement
-    dockerPull: 'quay.io/biocontainers/bedtools:2.29.2--hc088bd4_0'
+    dockerPull: 'quay.io/biocontainers/bedtools:2.31.1--hf5e1c6e_1'
   - class: InlineJavascriptRequirement
