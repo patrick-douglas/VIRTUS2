@@ -165,7 +165,7 @@ requirements:
   - class: InlineJavascriptRequirement
 hints:
   - class: DockerRequirement
-    dockerPull: 'quay.io/biocontainers/star:2.7.1a--0'
+    dockerPull: 'quay.io/biocontainers/star:2.7.11b--h43eeafb_1'
 's:author':
   - class: 's:Person'
     's:email': 'mailto:inutano@gmail.com'
