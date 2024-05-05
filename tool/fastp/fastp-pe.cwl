@@ -59,5 +59,5 @@ arguments:
 requirements:
   - class: ShellCommandRequirement
   - class: DockerRequirement
-    dockerPull: 'quay.io/biocontainers/fastp:0.20.0--hdbcaa40_0'
+    dockerPull: 'quay.io/biocontainers/fastp:0.23.4--hadf994f_3'
   - class: InlineJavascriptRequirement
